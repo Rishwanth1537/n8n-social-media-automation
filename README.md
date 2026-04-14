@@ -60,7 +60,7 @@ Focus was on:
 
 ## ⚠️ Limitations
 
-* Instagram posting not implemented (API restrictions)
+* Few Othercsocial media posting was not implemented (API restrictions)
 * Free-tier API rate limits (Gemini)
 * Basic retry handling
 
@@ -70,7 +70,6 @@ Focus was on:
 
 * Add scheduling (cron-based automation)
 * Implement retry with exponential backoff
-* Integrate Instagram posting API
 * Upgrade image generation model
 
 ---
